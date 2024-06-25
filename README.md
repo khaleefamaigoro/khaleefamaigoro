@@ -11,7 +11,7 @@ I am a seeker of useful knowledge, who is willing to put his knowledge and exper
 * 🌍  I'm based in Nigeria
 * 🖥  See my portfolio at [Muhammad Sani Maigoro](https://khaleefamaigoro.netlify.app/)
 * ✉  You can contact me at [khalifamaigoro@gmail.com](mailto:khalifamaigoro@gmail.com)
-* 🚀  I'm currently working on [Auto Bid Auction & VTU (Virtual Top Up) Application]
+* 🚀  I'm currently working on [Auction website & VTU (Virtual Top Up) Application]
 * 🧠  I'm learning Advanced Laravel & React js & React Native
 * 🤝  I'm open to collaborating on Mobile Apps and Web Developement 
 
