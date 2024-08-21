@@ -1,18 +1,12 @@
 Hi 👋 My name is Muhammad Sani Maigoro
 ==============================
-
-Mobile & Web Developer || IT
-------------------------
-
-I am proud to be a Muslim, living life according to the teachings of the Holy Qur'an and authentic narrations of the Holy Prophet (ﷺ), upon the methodology of the pious predecessors of the ummah (nation).
-
-I am a seeker of useful knowledge, who is willing to put his knowledge and experience towards achieving righteous goals that strengthen the functions of organizations, community and humanity at large.
+I'm a software developer with a strong background in frontend development. I excel at creating intuitive, user-friendly interfaces and have a keen eye for design. My expertise includes mastering the latest frontend technologies and frameworks, ensuring seamless performance and responsiveness across devices. With a passion for clean code and innovative solutions, I deliver polished digital experiences that meet both client and user needs.
 
 * 🌍  I'm based in Nigeria
 * 🖥  See my portfolio at [Muhammad Sani Maigoro](https://khaleefamaigoro.netlify.app/)
 * ✉  You can contact me at [khalifamaigoro@gmail.com](mailto:khalifamaigoro@gmail.com)
-* 🚀  I'm currently working on [Auction website & VTU (Virtual Top Up) Application]
-* 🧠  I'm learning Advanced Laravel & React js & React Native
+* 🚀  I'm currently working on [Mobile Banking App]
+* 🧠  I'm learning Advanced React js & React Native
 * 🤝  I'm open to collaborating on Mobile Apps and Web Developement 
 
 <a href="https://www.github.com/khaleefamaigoro" target="_blank" rel="noreferrer"><img
