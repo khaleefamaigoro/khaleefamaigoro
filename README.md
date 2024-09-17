@@ -1,6 +1,5 @@
 Hi 👋 My name is Muhammad Sani Maigoro
 ==============================
-I'm a software developer with a strong background in frontend development. I excel at creating intuitive, user-friendly interfaces and have a keen eye for design. My expertise includes mastering the latest frontend technologies and frameworks, ensuring seamless performance and responsiveness across devices. With a passion for clean code and innovative solutions, I deliver polished digital experiences that meet both client and user needs.
 
 * 🌍  I'm based in Nigeria
 * 🖥  See my portfolio at [Muhammad Sani Maigoro](https://muhammad-sani-maigoro.netlify.app/)
